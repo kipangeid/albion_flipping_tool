@@ -1,0 +1,53 @@
+{
+  "discord_webhook": "https://discord.com/api/webhooks/1436034209885061213/Qxg0rc_0D-qd3zbscWmLrGwvyzNoy-r8KZkWucKahXHCTGr47DDSNNhMcxDmvzQYNK-B",
+  "items": [ 
+    "T7_CAPE",
+    "T7_ARMOR_LEATHER_SET3",
+    "T7_SHOES_PLATE_SET3",
+    "T7_MAIN_FIRESTAFF",
+    "T7_2H_CROSSBOW",
+    "T7_DUAL_SWORD",
+
+
+    "T4_BAG",
+    "T4,1_BAG",
+    "T4,2_BAG",
+    "T4,3_BAG",
+    "T4,4_BAG",
+    "T5_BAG",
+    "T5,1_BAG",
+    "T5,2_BAG",
+    "T5,3_BAG",
+    "T5,4_BAG",
+    "T6_BAG",
+    "T6,1_BAG", 
+    "T6,2_BAG",
+    "T6,3_BAG",
+    "T6,4_BAG",
+    "T7_BAG",
+    "T7,1_BAG", 
+    "T7,2_BAG",
+    "T7,3_BAG",
+    "T7,4_BAG",
+    "T8_BAG",
+    "T8,1_BAG", 
+    "T8,2_BAG",
+    "T8,3_BAG",
+    "T8,4_BAG"
+  ],
+  "cities": [
+    "Caerleon",
+    "Bridgewatch",
+    "Lymhurst",
+    "Martlock",
+    "Thetford",
+    "Black Market"
+  ],
+  "api_region_host": "https://east.albion-online-data.com",
+  "tax_rate": 0.065,
+  "min_profit_city": 10,
+  "min_profit_bm": 1000,
+  "transaction_tax_pct": 0.04,
+"min_profit_pct": 0.001,
+  "min_price_threshold": 100
+}
